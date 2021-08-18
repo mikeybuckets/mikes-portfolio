@@ -1,23 +1,21 @@
 export const projects = [
   {
-    title: "DivOps",
+    title: "AirBnB-Clone Project",
     description:
-      "An online suite of open source software that aims to simplify everyday web administration tasks through automation and pairing users to efficient resources.",
-    image: "/images/1.png",
-    tags: ["Next", "Vercel", "React", "MongoDB"],
-    source: "https://google.com",
-    visit: "https://google.com",
-    id: 0
+      "Check out the search bar functionality on this AirBnB clone. Try searching 'London' and watch the elements get passed through the url",
+    image: "/images/airbnb-screenshot.png",
+    tags: ["Next", "React", "MongoDB"],
+    visit: "https://airbnb-clone.projects.michaelcalendo.com",
+    id: 1
   },
   {
-    title: "DivOperations",
+    title: "Meaghan's Wedding",
     description:
-      "DivOps users who fail to authenticate on the initial run are usually directed to the Docs page where further instructions are given through articles and visual guides.",
-    image: "/images/2.png",
-    tags: ["Next", "Vercel", "React", "TailwindCSS"],
-    source: "https://google.com",
-    visit: "https://google.com",
-    id: 1
+      "COMING SOON: Will feature some of the newest ES6 technologies including SSR, Lazy Loading images, and custom domain redirection with React Hooks.",
+    image: "/images/date.png",
+    tags: ["TailwindCSS", "React-Spring", "React-Particles"],
+    visit: "https://michaelcalendo.com",
+    id: 0
   }
   // {
   //   title: "WebRTC App",

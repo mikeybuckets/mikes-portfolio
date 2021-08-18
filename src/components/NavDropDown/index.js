@@ -21,7 +21,7 @@ const NavDropDown = (props) => (
       <DropDownTextContainer>
         <DropDownItemTitle>Phone</DropDownItemTitle>
         <DropDownItemDesc>
-          Let's get together and have a chat?'
+          ""
         </DropDownItemDesc>
       </DropDownTextContainer>
     </DropDownItem>
@@ -32,7 +32,7 @@ const NavDropDown = (props) => (
       <DropDownTextContainer>
         <DropDownItemTitle>Email</DropDownItemTitle>
         <DropDownItemDesc>
-          If you want to talk jus send a message and I'll get back
+          contact@divoperations.com
         </DropDownItemDesc>
       </DropDownTextContainer>
     </DropDownItem>
@@ -41,8 +41,8 @@ const NavDropDown = (props) => (
         <FaLocationArrow />
       </DropDownIcon>
       <DropDownTextContainer>
-        <DropDownItemTitle>Address</DropDownItemTitle>
-        <DropDownItemDesc>1405, Angelus Dr, Florissant. Mo</DropDownItemDesc>
+        <DropDownItemTitle>City</DropDownItemTitle>
+        <DropDownItemDesc>Queen Creek</DropDownItemDesc>
       </DropDownTextContainer>
     </DropDownItem>
   </DropDownContainer>
