@@ -12,7 +12,7 @@ export const projects = [
     id: 0
   },
   {
-    title: "AirBnB-Clone Project",
+    title: "Airbnb-Clone Project",
     description:
       "Check out the search bar functionality on this AirBnB clone. Try searching 'London' and watch the elements get passed through the url",
     image:
