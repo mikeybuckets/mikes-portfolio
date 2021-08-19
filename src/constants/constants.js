@@ -4,7 +4,7 @@ export const projects = [
     description:
       "COMING SOON: I am building a React app to broadcast and showcase my little sister's wedding. It will feature some of the newest ES6 technologies including SSR, Lazy Loading images, and custom domain redirection with React Hooks.",
     image:
-      "https://divoperations.com/resources/wedding-images/logos/michaelcalendo-projects-airbnb-clone%23card-1.svg",
+      "https://divoperations.com/resources/wedding-images/logos/michaelcalendo-projects-airbnb-clone%23card-date.png",
     tags: ["SSR", "TailwindCSS", "React-Spring", "React-Particles"],
     source:
       "hdivoperations.com/resources/wedding-images/logos/michaelcalendo-projects-airbnb-clone%23card-date.pngttps://michaelcalendo.com",
@@ -16,7 +16,7 @@ export const projects = [
     description:
       "Check out the search bar functionality on this AirBnB clone. Try searching 'London' and watch the elements get passed through the url",
     image:
-      "https://divoperations.com/resources/wedding-images/logos/michaelcalendo-projects-airbnb-clone%23card-date.png",
+      "https://divoperations.com/resources/wedding-images/logos/michaelcalendo-projects-airbnb-clone%23card-1.svg",
     tags: ["TailwindCSS", "Mapbox Integration", "Server Side Rendering"],
     source: "https://projects.michaelcalendo.com/airbnb-practice-clone",
     visit: "https://projects.michaelcalendo.com/airbnb-practice-clone",
