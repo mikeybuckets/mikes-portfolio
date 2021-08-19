@@ -25,7 +25,7 @@ const Footer = () => {
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:contact@michaelcalendo.com">
-            admin@divops.us
+            contact@michaelcalendo.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
@@ -34,13 +34,13 @@ const Footer = () => {
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://github.com/mikeybuckets/">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://www.linkedin.com/in/mikecalendo/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://www.youtube.com/channel/UCjzcAKPKLoiOEommdOAp2TA">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>
