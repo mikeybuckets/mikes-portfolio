@@ -18,8 +18,8 @@ export const projects = [
     image:
       "https://divoperations.com/resources/wedding-images/logos/michaelcalendo-projects-airbnb-clone%23card-1.svg",
     tags: ["TailwindCSS", "Mapbox Integration", "Server Side Rendering"],
-    source: "https://projects.michaelcalendo.com/airbnb-practice-clone",
-    visit: "https://projects.michaelcalendo.com/airbnb-practice-clone",
+    source: "https://airbnb-clone.projects.michaelcalendo.com",
+    visit: "https://airbnb-clone.projects.michaelcalendo.com",
     id: 1
   }
   // {
