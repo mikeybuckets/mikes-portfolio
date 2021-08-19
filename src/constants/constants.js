@@ -3,7 +3,8 @@ export const projects = [
     title: "AirBnB-Clone Project",
     description:
       "Check out the search bar functionality on this AirBnB clone. Try searching 'London' and watch the elements get passed through the url",
-    image: "/images/airbnb-screenshot.png",
+    image:
+      "https://divoperations.com/resources/wedding-images/logos/michaelcalendo-projects-airbnb-clone%23card-1",
     tags: ["Next", "React", "MongoDB"],
     visit: "https://airbnb-clone.projects.michaelcalendo.com",
     id: 1
@@ -12,7 +13,8 @@ export const projects = [
     title: "Meaghan's Wedding",
     description:
       "COMING SOON: Will feature some of the newest ES6 technologies including SSR, Lazy Loading images, and custom domain redirection with React Hooks.",
-    image: "/images/date.png",
+    image:
+      "https://divoperations.com/resources/wedding-images/logos/michaelcalendo-projects-airbnb-clone%23card-date.png",
     tags: ["TailwindCSS", "React-Spring", "React-Particles"],
     visit: "https://michaelcalendo.com",
     id: 0
